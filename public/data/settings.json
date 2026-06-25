@@ -8,8 +8,8 @@
 
     "preloaderSettings": {
         "enabled": true,
-        "title": "React <strong>Portfolio</strong>",
-        "subtitle": "by Ryan Balieiro",
+        "title": "Elhadj Mamadou <strong>Diallo</strong>",
+        "subtitle": "Développeur Backend Python/Django",
         "logoOffset": {
             "right": 14,
             "top": 2,
@@ -20,7 +20,7 @@
     "templateSettings": {
         "animatedCursorEnabled": true,
         "backgroundStyle": "animated",
-        "defaultLanguageId": "en",
+        "defaultLanguageId": "fr",
         "defaultThemeId": "dark",
         "fullscreenEnabled": true,
         "showSpinnerOnThemeChange": false
@@ -28,24 +28,14 @@
 
     "supportedLanguages": [
         {
-            "name": "English",
-            "id": "en",
-            "flagUrl": "images/flags/en-us.png"
-        },
-        {
-            "name": "Español",
-            "id": "es",
-            "flagUrl": "images/flags/es.png"
-        },
-        {
             "name": "Français",
             "id": "fr",
             "flagUrl": "images/flags/fr.png"
         },
         {
-            "name": "한국어",
-            "id": "ko",
-            "flagUrl": "images/flags/ko.png"
+            "name": "English",
+            "id": "en",
+            "flagUrl": "images/flags/en-us.png"
         }
     ],
 
@@ -56,9 +46,7 @@
             "dark": true,
             "locales": {
                 "en": {"name": "Dark Mode"},
-                "es": {"name": "Modo Oscuro"},
-                "fr": {"name": "Mode Sombre"},
-                "ko": {"name": "다크 모드"}
+                "fr": {"name": "Mode Sombre"}
             }
         },
         {
@@ -67,45 +55,35 @@
             "dark": false,
             "locales": {
                 "en": {"name": "Light Mode"},
-                "es": {"name": "Modo Claro"},
-                "fr": {"name": "Mode Clair"},
-                "ko": {"name": "라이트 모드"}
+                "fr": {"name": "Mode Clair"}
             }
         }
     ],
 
     "consoleMessageForDevelopers": {
-        "title": "\uD83D\uDDA5️ Hey there, fellow developer!",
+        "title": "👋 Hey there, fellow developer!",
         "items": [
             {
-                "description": "This is an open-source template based on the React framework.",
+                "description": "This is the portfolio of Elhadj Mamadou Diallo, built with React Portfolio Template.",
                 "list": [],
                 "listStyle": "none"
             },
             {
-                "description": "Other frameworks and plugins used in the project include:",
+                "description": "Tech stack used:",
                 "list": [
-                    "Bootstrap 5: https://getbootstrap.com/",
-                    "Smooth Scrollbar: https://tinyurl.com/4yhm4n4a",
-                    "Swiper: https://swiperjs.com/",
-                    "EmailJS: https://www.emailjs.com/",
-                    "Font Awesome: https://fontawesome.com/",
-                    "PrimeIcons: https://primefaces.org/"
+                    "React 18 + Vite",
+                    "Bootstrap 5",
+                    "SCSS",
+                    "EmailJS",
+                    "Font Awesome"
                 ],
                 "listStyle": "bulleted"
             },
             {
-                "description": "Clone it and customize it for your own portfolio:",
+                "description": "Contact:",
                 "list": [
-                    "https://github.com/ryanbalieiro/react-portfolio-template"
-                ],
-                "listStyle": "none"
-            },
-            {
-                "description": "Developer Info:",
-                "list": [
-                    "GitHub: https://github.com/ryanbalieiro",
-                    "Website: https://ryanbalieiro.com"
+                    "GitHub: https://github.com/elhadjmamadou",
+                    "Email: houssary356@gmail.com"
                 ],
                 "listStyle": "bulleted"
             }
